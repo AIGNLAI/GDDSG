@@ -3,7 +3,7 @@
 <div align="center">
 
 <div>
-  <a href='https://aignlai.github.io/' target='_blank'>Guannan Lai</a><sup>1</sup>&emsp;
+  <a href='https://www.lamda.nju.edu.cn/laign/' target='_blank'>Guannan Lai</a><sup>1</sup>&emsp;
   <a href='https://scholar.google.com/citations?user=P42FoNwAAAAJ&hl=zh-TW&oi=sra' target='_blank'>Yujie Li</a><sup>1,2</sup>&emsp;
   <a href='https://scholar.google.com/citations?user=L7AIhMkAAAAJ&hl=zh-CN' target='_blank'>Xiangkun Wang</a><sup>1</sup>&emsp;
   <a href='https://scholar.google.com/citations?hl=zh-CN&user=sQpMBqsAAAAJ' target='_blank'>Junbo Zhang</a><sup>3</sup>&emsp;
