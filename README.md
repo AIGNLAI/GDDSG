@@ -28,11 +28,12 @@
 🎉The code repository for "Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping" (CVPR 2025) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry:
 
 ```
-@inproceedings{lai2024order, 
-    title={Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping}, 
-    author={Lai, Guannan and Li, Yujie and Wang, Xiangkun and Zhang, Junbo and Li, Tianrui and Yang, Xin}, 
-    booktitle={CVPR}, 
-    year={2025} 
+@inproceedings{lai2025order,
+  title={Order-robust class incremental learning: Graph-driven dynamic similarity grouping},
+  author={Lai, Guannan and Li, Yujie and Wang, Xiangkun and Zhang, Junbo and Li, Tianrui and Yang, Xin},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={4894--4904},
+  year={2025}
 }
 
 @article{lai2025lie,
