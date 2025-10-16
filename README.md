@@ -34,6 +34,13 @@
     booktitle={CVPR}, 
     year={2025} 
 }
+
+@article{lai2025lie,
+  title={The Lie of the Average: How Class Incremental Learning Evaluation Deceives You?},
+  author={Lai, Guannan and Zhou, Da-Wei and Yang, Xin and Ye, Han-Jia},
+  journal={arXiv preprint arXiv:2509.22580},
+  year={2025}
+}
 ```
 
 ## Overview
